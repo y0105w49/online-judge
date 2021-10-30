@@ -1,11 +1,11 @@
-Django>=2.2,<3
+Django>=3.2,<4
 django_compressor
 django-mptt
 django-pagedown<2
 django-registration-redux
-django-reversion
+django-reversion>=3.0.5,<4
 django-social-share
-django-sortedm2m @ git+git://github.com/DMOJ/django-sortedm2m.git
+django-sortedm2m>=3.1
 django-impersonate
 dmoj-wpadmin @ git+git://github.com/DMOJ/dmoj-wpadmin.git
 lxml
